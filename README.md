@@ -1,0 +1,1 @@
+The exploit script for Havoc C2 version 0.7 that demonstrates a Server-Side Request Forgery (SSRF) vulnerability. It allows an attacker to spoof a demon agent registration and check-ins, open a TCP socket on the teamserver, and read/write data from it. This can be used to leak origin IPs of teamservers and more.
